@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "205104965948",
+    "firebase_url": "https://formconnectfirebase-d1c0d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "formconnectfirebase-d1c0d",
+    "storage_bucket": "formconnectfirebase-d1c0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205104965948:android:04c94ec597cd520a7b9639",
+        "android_client_info": {
+          "package_name": "com.example.formconnectfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTSKh1qJnJGVmmWQsfuM28GBPoyADYm8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205104965948:android:13979962b069ceb47b9639",
+        "android_client_info": {
+          "package_name": "com.thomorta.formconnectfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTSKh1qJnJGVmmWQsfuM28GBPoyADYm8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
